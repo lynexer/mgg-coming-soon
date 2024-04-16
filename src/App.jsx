@@ -44,7 +44,7 @@ const App = () => {
                             href='https://www.instagram.com/morphgalaxy/'
                             target='_blank'
                         >
-                            <i class='fa-brands fa-instagram text-2xl'></i>
+                            <i className='fa-brands fa-instagram text-2xl'></i>
                         </a>
                         <svg
                             viewBox='0 0 2 2'
