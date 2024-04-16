@@ -21,7 +21,7 @@ const App = () => {
                         Coming Soon
                     </h1>
                     <p className='mt-6 text-base leading-7 text-gray-300'>
-                        We're working on something new! If you have any
+                        We&apos;re working on something new! If you have any
                         questions feel free to contact us below:
                     </p>
                     <div className='mt-10 space-x-2 text-gray-300'>
